@@ -1,7 +1,7 @@
 using Avalonia.Controls;
-using BdfEditor.ViewModels;
+using BdfEditor.ViewModels.Windows;
 
-namespace BdfEditor.Views;
+namespace BdfEditor.Views.Windows;
 
 public partial class MainWindow : Window
 {
